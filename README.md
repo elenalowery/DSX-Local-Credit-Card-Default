@@ -1,6 +1,6 @@
 # DSX Local Credit Card default demo
 
-## This repository contains the following assets for the Telco Churn demo in DSX Local
+** This repository contains the following assets for the Telco Churn demo in DSX Local **
 1. Presentation - replace Use Case slides from this repo in this presentation: https://github.com/elenalowery/DSXLocal_TelcoChurn/tree/master/Presentation
 2. Notebook
 3. Data
