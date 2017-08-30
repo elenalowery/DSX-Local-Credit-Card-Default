@@ -1,9 +1,19 @@
 # DSX Local Credit Card Default Demo
 
+**Objective**
+
+The objective of this demo asset is to demonstrate how to use analytics to predict credit card default.  A client approves many low value merchant accounts without much scrutiny. Many of those merchant accounts default. 
+
+This demo asset achieves these goals:
+1. Understand profiles of merchants who have defaulted on their credit cards and share it with the acquisitions, marketing, and customer care teams
+2. Create a predictive model for credit card default
+3. Operationalize the model by deploying it for online scoring
+
+
 ** This repository contains the following assets for the Credit Card Default demo in DSX Local **
-1. Presentation - replace *Use Case* slides from this repo in [this presentation](https://github.com/elenalowery/DSXLocal_TelcoChurn/tree/master/Presentation)
-2. Notebook
-3. Data
+1. ![Presentation](Presentation)
+2. ![Notebook](Notebooks)
+3. ![Data](data)
 
 **Demo setup**
 1. Create a DSX project
