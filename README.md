@@ -9,8 +9,7 @@ This demo asset achieves these goals:
 2. Create a predictive model for credit card default
 3. Operationalize the model by deploying it for online scoring
 
-
-** This repository contains the following assets for the Credit Card Default demo in DSX Local **
+**This repository contains the following assets for the Credit Card Default demo in DSX Local**
 1. ![Presentation](Presentation)
 2. ![Notebook](Notebooks)
 3. ![Data](data)
