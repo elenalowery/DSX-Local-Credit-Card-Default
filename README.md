@@ -19,12 +19,9 @@ This demo asset achieves these goals:
 2. Import ![Data](data) <br/>
 Tip: First download the csv files before importing them into your project.  When downloading the csv files, make sure click the **Raw** button to display the data in its raw format, right-click and select "Save Page As".
 ![Download CSV files](static/img/file_download.png?raw=true)
-
-
-1. Create a DSX project
-2. Import data
-3. Import notebook
-4. Follow instructions in the notebook to add project token
+3. Import notebook <br/>
+Within the "DSX Local Lab - Credit Card Default" project, add a Notebook and choose to import it from this URL: https://github.com/elenalowery/DSX-Local-Credit-Card-Default/blob/master/Notebooks/CreditCardDefault_DSXLocal.ipynb
+4. Follow instructions in the notebook to add project token, and work through the notebook
 5. If you would like to show Model Management - create several deployments from this or different notebooks
 
 **Demo**
