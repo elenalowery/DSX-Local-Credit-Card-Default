@@ -18,7 +18,7 @@ This demo asset achieves these goals:
 1. Create a DSX project and name it "*DSX Local Lab - Credit Card Default*"
 2. Import ![Data](data) <br/>
 Tip: First download the csv files before importing them into your project.  When downloading the csv files, make sure click the **Raw** button to display the data in its raw format, right-click and select "Save Page As".
-![Download CSV files](static/img/download_csv.png?raw=true)
+![Download CSV files](static/img/file_download.png?raw=true)
 
 
 1. Create a DSX project
